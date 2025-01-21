@@ -68,7 +68,7 @@ DOWNLOADER_MIDDLEWARES = {
    "lianjiaSpider.middlewares.SeleniumMiddleware": 10,
    "lianjiaSpider.middlewares.LianjiaspiderDownloaderMiddleware": 543,
 }
-HTTP_PROXY = 'http://3C49447F:F5E11B4E236B@tun-yowmaw.qg.net:10523'
+HTTP_PROXY = 'http://********:********@********:****'
 
 SELENIUM_DRIVER_NAME = "firefox"
 SELENIUM_DRIVER_EXECUTABLE_PATH = "D:\geckodriver-v0.35.0-win64\geckodriver.exe"
